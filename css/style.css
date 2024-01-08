@@ -122,4 +122,63 @@ justify-content: space-between;
 }
 .group-celebration{
     display: flex;
+    margin-top: 120px;
+}
+.left-side{
+    padding: 100px 0px;
+}
+.best-offer{
+    color: red;
+text-align: left ;
+font-size: 24px;
+font-weight: 500;
+font-family: 'Inter', sans-serif;
+margin-bottom: 10px;
+}
+#coming-soon{
+    color: black;
+font-size: 45px;
+font-weight: 800;
+text-transform: capitalize;
+font-family: 'Merriweather', serif;
+margin: 0px;
+}
+.offer-text{
+    columns: #66636C;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-right:60 px ;
+}
+.imgborder{
+
+    border-radius: 364.844px;
+    border: 12px solid red;
+    padding: 45px;
+    margin-right: 70px;
+}
+.heiwth{
+    width: 250px;
+    height: 250px;
+}
+#year-section{
+padding-top: 100px;
+}
+
+.year{
+    font-size:45px;
+    color: red;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+.year-text{
+    columns: #66636C;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+.Happy{
+    float: left;
 }
