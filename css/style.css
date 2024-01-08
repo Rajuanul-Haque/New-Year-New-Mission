@@ -15,7 +15,7 @@ font-family: 'Merriweather', serif;
 .text{
     text-align: center;
     color:#fff;
-    padding: 180px 100px 325px;
+    padding: 165px 100px 200px;
 }
 .text h2{
     font-size: 32px;
@@ -88,4 +88,38 @@ justify-content: space-between;
     color: #fff;
     background-color: #080312;
     margin: 40px 30px;
+}
+.time-table{
+    background-color: #ffffff;
+    text-align: center;
+    margin-top: 120px;
+    border-radius: 10px;
+    height: 440px;
+    width: auto;
+    box-shadow: inset 0px 200px 150px #FFE7E7;
+.addres{
+    font-size: 30px;
+    font-weight: 600;;
+    font-family: 'Inter', sans-serif;
+    padding: 100px 100px 0px;
+    color: #070213;
+}
+}
+.rong{
+    color: red;
+}
+.join{
+    background-color: red;
+    color: #fff;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 50px auto 100px;
+}
+.group-celebration{
+    display: flex;
 }
